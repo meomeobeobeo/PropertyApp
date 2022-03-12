@@ -14,3 +14,9 @@ a {
 * {
   box-sizing: border-box;
 }
+.bg-blue {
+  padding: 4px 8px;
+  background-color: #0069d9;
+  border: none;
+  
+}
